@@ -102,3 +102,6 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Tor
+onion_service_volume
