@@ -1,0 +1,12 @@
+{
+  "name": "nodejs-onion-service",
+  "repository": "https://github.com/InkoHX/nodejs-onion-service.git",
+  "author": "InkoHX <me@inkohx.dev>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ./src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
